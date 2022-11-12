@@ -8,6 +8,7 @@ const countries = {
     "es-ES": "Espanhol",
     "it-IT": "Italiano",
     "pt-BR": "Português",
+    "fr-FR": "Francês",
 }
 
 selects.forEach((tag) => {
